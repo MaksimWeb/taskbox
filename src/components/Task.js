@@ -49,7 +49,7 @@ export default function Task({
 }
 
 Task.propTypes = {
-  /** Composition of the tasks */
+  /** Composition of the tasks Iugai */
   task: PropTypes.shape({
     /** Id of the task */
     id: PropTypes.string.isRequired,
